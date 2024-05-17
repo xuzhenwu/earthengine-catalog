@@ -113,7 +113,6 @@ EXCEPTIONS = frozenset({
     'grsg',
     'gtopo30',
     'habitats',
-    'half_hourly',
     'hansen',
     'hapludalfs',
     'health',
